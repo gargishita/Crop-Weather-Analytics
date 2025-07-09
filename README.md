@@ -25,11 +25,14 @@ An interactive web dashboard for analyzing crop and weather patterns across diff
 | Category        | Tools / Libraries                                     |
 |----------------|--------------------------------------------------------|
 | Frontend       | Streamlit, Matplotlib, Seaborn, Plotly                 |
-| Backend        | Python, Flask (if applicable), NumPy, Pandas           |
+| Backend        | Python, NumPy, Pandas                                  |
 | ML Model       | TensorFlow / Keras, ResNet50, ImageDataGenerator       |
-| APIs & Data    | OpenWeatherMap, Nominatim, Custom Crop Image Dataset   |
+| APIs           | OpenWeatherMap, GROQ API, Nominatim, Open Meteo        |
+| Statistics     | Chi Square test, T test, Anova, Correlation            |
+| Visualisation  | Live Disease Risk Indian Map, Histogram, Line Graphs   |
+|                | Bar Graphs , Heatmaps                                  |
 
 ---
 
-## 📁 Folder Structure
+
 
